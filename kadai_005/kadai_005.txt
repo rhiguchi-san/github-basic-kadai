@@ -1,4 +1,7 @@
- MINGW64 /c/SAMURAI/git_challenge
+ MINGW64 /c/SAMURAI/git_challenge (main)
+$ echo "Hello, world!" >> hello_world.txt
+
+MINGW64 /c/SAMURAI/git_challenge
 $ git init
 Initialized empty Git repository in C:/SAMURAI/git_challenge/.git/
 
@@ -22,4 +25,5 @@ $ git commit -m "日本語訳を追記"
  MINGW64 /c/SAMURAI/git_challenge (main)
 $ git log --oneline
 b29ac43 (HEAD -> main) 日本語訳を追記
+
 e622404 hello_world.txtを追加
